@@ -1,0 +1,48 @@
+{
+  "Products": [
+    {
+      "Id": "1234",
+      "Name": "mouse",
+      "Price": "200",
+      "Quantity": "5",
+      "Color": "Black",
+      "Category": "Electronic",
+      "Image": "TextBox",
+      "InStock": "In Stock",
+      "Description": "n/a"
+    },
+    {
+      "Id": "1",
+      "Name": "Keyboard",
+      "Price": "300",
+      "Quantity": "1",
+      "Color": "Black",
+      "Category": "Electronic",
+      "Image": "a2a837d4-67ed-45c7-8eb5-d13e438299a7.jpg",
+      "InStock": "In Stock",
+      "Description": "N/A"
+    },
+    {
+      "Id": "12",
+      "Name": "Hardisk",
+      "Price": "12000",
+      "Quantity": "1",
+      "Color": "Black",
+      "Category": "Electronic",
+      "Image": "aed92b38-a2db-49b0-b672-322475921cab.jpg",
+      "InStock": "In Stock",
+      "Description": "N/A"
+    },
+    {
+      "Id": "12",
+      "Name": "Hardisk",
+      "Price": "12000",
+      "Quantity": "1",
+      "Color": "Black",
+      "Category": "Electronic",
+      "Image": "aed92b38-a2db-49b0-b672-322475921cab.jpg",
+      "InStock": "In Stock",
+      "Description": "N/A"
+    }
+  ]
+}

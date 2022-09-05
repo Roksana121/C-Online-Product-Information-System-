@@ -1,0 +1,52 @@
+﻿<Window x:Class="App_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App_Test"
+        mc:Ignorable="d"
+        Title="Product Information" Height="718" Width="1271">
+    <Grid Height="687" VerticalAlignment="Top" HorizontalAlignment="Left" Width="1271">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="106*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="ID :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,142,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="186"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" BorderBrush="BlueViolet" FontWeight="Bold" Margin="228,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="372" Height="33" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Product Information" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="141,76,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="36"/>
+        <Label Content="Name :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,185,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" BorderBrush="BlueViolet" FontWeight="Bold" Margin="228,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="372" Height="33" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Price :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,237,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" BorderBrush="BlueViolet" FontWeight="Bold" Margin="228,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="372" Height="33" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Quantity :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,284,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <TextBox x:Name="txtQuantity" HorizontalAlignment="Left" BorderBrush="BlueViolet" FontWeight="Bold" Margin="228,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="372" Height="33" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Color :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,333,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <ComboBox x:Name="cmbColor" HorizontalAlignment="Left" Margin="228,340,0,0" VerticalAlignment="Top" Width="372" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Category :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,389,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <ComboBox x:Name="cmbCategory" HorizontalAlignment="Left" Margin="228,396,0,0" VerticalAlignment="Top" Width="372" FontFamily="Century Gothic" FontSize="24"/>
+        <Label Content="Stock :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,447,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" Width="185"/>
+        <RadioButton x:Name="rdInStock"  Foreground="Blue"   HorizontalAlignment="Left" Margin="228,459,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.143,0.671" FontFamily="Century Gothic" FontSize="24" Height="34" GroupName="isStock">In Stock</RadioButton>
+        <RadioButton x:Name="rdOutOfStock"  Foreground="Blue"  HorizontalAlignment="Left" Margin="363,460,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.143,0.671" FontFamily="Century Gothic" FontSize="24" Height="34" GroupName="isStock">Out of Stock</RadioButton>
+        <Label Content="Description :" HorizontalAlignment="Left" FontWeight="Bold" Foreground="BlueViolet" Margin="42,495,0,0" VerticalAlignment="Top" FontFamily="Century Gothic" FontSize="24" RenderTransformOrigin="0.638,2.639" Width="185" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtDescription" Foreground="Blue" BorderBrush="BlueViolet"  HorizontalAlignment="Left" Margin="238,500,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="372" Height="80" FontFamily="Century Gothic" FontSize="24" Grid.RowSpan="2"/>
+        <Button x:Name="btnImageUpload" Foreground="White"  Content="Upload Image" HorizontalAlignment="Left" Margin="843,114,0,0" VerticalAlignment="Top" Height="50" Width="180" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Click="btnImageUpload_Click">
+            <Button.Background>
+                <SolidColorBrush Color="BlueViolet" Opacity="0.98"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="itemPic" HorizontalAlignment="Left" Height="268" Margin="809,205,0,0" VerticalAlignment="Top" Width="288">
+
+        </Image>
+        <Button x:Name="btnSave" Foreground="White"  Content="Save" HorizontalAlignment="Left" Margin="783,518,0,0" VerticalAlignment="Top" Height="47" Width="150" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Click="btnSave_Click" RenderTransformOrigin="0.77,0.256">
+            <Button.Background>
+                <SolidColorBrush Color="BlueViolet" Opacity="0.98"/>
+            </Button.Background>
+        </Button>
+        <TextBox Visibility="Hidden" Name="txtFilePath" HorizontalAlignment="Left" Margin="676,234,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="568" Height="26"/>
+        <Button x:Name="btnShowAll" Foreground="White"  Content="Show All " HorizontalAlignment="Left" Margin="1009,515,0,0" VerticalAlignment="Top" Height="50" Width="137" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Click="btnShowAll_Click"  RenderTransformOrigin="1.72,0.441">
+            <Button.Background>
+                <SolidColorBrush Color="BlueViolet" Opacity="0.98"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,120 @@
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.exe
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.deps.json
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.json
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.dev.json
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.dll
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.pdb
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.cache
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.lref
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.baml
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.g.resources
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.GeneratedMSBuildEditorConfig.editorconfig
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfoInputs.cache
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfo.cs
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.dll
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.pdb
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.genruntimeconfig.cache
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CopyComplete
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_005\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.baml
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.exe
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.deps.json
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.json
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.dev.json
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.dll
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.pdb
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App.g.cs
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.cache
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.lref
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.baml
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.baml
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.g.resources
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.GeneratedMSBuildEditorConfig.editorconfig
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfoInputs.cache
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfo.cs
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CopyComplete
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.dll
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.pdb
+H:\ESAD_CS_R49\M_03_UML\Class_006\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.genruntimeconfig.cache
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.exe
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.deps.json
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.json
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.dev.json
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.dll
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\App_Test.pdb
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.g.cs
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.cache
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.lref
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\ProductAll.baml
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.g.resources
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfo.cs
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CopyComplete
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.dll
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.pdb
+C:\Users\HP\Desktop\1266242\ESAD_CS_R49_M03_D005\App_Test\obj\Debug\netcoreapp3.1\App_Test.genruntimeconfig.cache
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.exe
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.deps.json
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.json
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.dev.json
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.dll
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\App_Test.pdb
+D:\C# all class\1266242-Project C#\1266242\App_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.AssemblyReference.cache
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\ProductAll.g.cs
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.cache
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.lref
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\ProductAll.baml
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.g.resources
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfoInputs.cache
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfo.cs
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CoreCompileInputs.cache
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CopyComplete
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.dll
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.pdb
+D:\C# all class\1266242-Project C#\1266242\App_Test\obj\Debug\netcoreapp3.1\App_Test.genruntimeconfig.cache
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.exe
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.deps.json
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.json
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.runtimeconfig.dev.json
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.dll
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\App_Test.pdb
+D:\C# all class\1266242_C#_project_Product information System\App_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.AssemblyReference.cache
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\ProductAll.g.cs
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App.g.cs
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.cache
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test_MarkupCompile.lref
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\ProductAll.baml
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.g.resources
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfoInputs.cache
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.AssemblyInfo.cs
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CoreCompileInputs.cache
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.csproj.CopyComplete
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.dll
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.pdb
+D:\C# all class\1266242_C#_project_Product information System\App_Test\obj\Debug\netcoreapp3.1\App_Test.genruntimeconfig.cache
